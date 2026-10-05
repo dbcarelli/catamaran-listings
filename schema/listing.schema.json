@@ -1,0 +1,145 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/dbcarelli/catamaran-listings/schema/listing.schema.json",
+  "title": "CatamaranListing",
+  "type": "object",
+  "required": [
+    "id",
+    "brand",
+    "model",
+    "year",
+    "length_ft",
+    "asking_price_usd",
+    "currency",
+    "location",
+    "coast",
+    "daggerboards",
+    "status",
+    "urls",
+    "first_seen",
+    "last_checked"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "brand": {
+      "type": "string"
+    },
+    "model": {
+      "type": "string"
+    },
+    "name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "year": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "length_ft": {
+      "type": "number"
+    },
+    "asking_price_usd": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "currency": {
+      "type": "string",
+      "const": "USD"
+    },
+    "location": {
+      "type": "object",
+      "required": [
+        "city",
+        "region",
+        "country"
+      ],
+      "properties": {
+        "city": {
+          "type": "string"
+        },
+        "region": {
+          "type": "string"
+        },
+        "country": {
+          "type": "string"
+        }
+      }
+    },
+    "coast": {
+      "type": "string",
+      "enum": [
+        "east",
+        "west"
+      ]
+    },
+    "daggerboards": {
+      "type": "string",
+      "enum": [
+        "yes",
+        "no",
+        "unclear"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "active",
+        "rejected",
+        "stale",
+        "sold",
+        "off_market"
+      ]
+    },
+    "urls": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "source",
+          "url"
+        ],
+        "properties": {
+          "source": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "price_usd": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "price_notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "first_seen": {
+      "type": "string"
+    },
+    "last_checked": {
+      "type": "string"
+    }
+  }
+}

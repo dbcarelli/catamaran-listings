@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "type": "sailing_catamaran",
+  "daggerboards_required": true,
+  "length_min_ft": 37,
+  "length_preferred_ft": 45,
+  "price_target_usd": 500000,
+  "price_search_max_usd": 750000,
+  "locations": [
+    "US East Coast",
+    "US West Coast"
+  ],
+  "preferred_brands": [
+    "Outremer",
+    "Catana",
+    "Seawind"
+  ],
+  "sources": [
+    "YachtWorld",
+    "SailboatListings",
+    "Facebook",
+    "Google/brokers"
+  ],
+  "notes": "Exclude boats with small interior common areas or small outside areas per Daniel feedback."
+}

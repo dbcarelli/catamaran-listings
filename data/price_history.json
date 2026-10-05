@@ -1,0 +1,125 @@
+{
+  "schema_version": "1.0.0",
+  "entries": [
+    {
+      "listing_id": "catana-471-2001-pippin",
+      "recorded_at": "2026-10-04T16:46:00-07:00",
+      "price_usd": 349000,
+      "source": "YachtWorld",
+      "url": "https://www.yachtworld.com/yacht/2001-catana-471-9922170/",
+      "note": "baseline after Daniel feedback"
+    },
+    {
+      "listing_id": "catana-471-1998-la-vida-gypsea",
+      "recorded_at": "2026-10-04T16:46:00-07:00",
+      "price_usd": 395000,
+      "source": "SailboatListings",
+      "url": "https://www.sailboatlistings.com/view/112931",
+      "note": "baseline after Daniel feedback"
+    },
+    {
+      "listing_id": "dolphin-460-2007-anavah",
+      "recorded_at": "2026-10-04T16:46:00-07:00",
+      "price_usd": 399000,
+      "source": "YachtWorld",
+      "url": "https://www.yachtworld.com/yacht/2007-dolphin-460-10164723/",
+      "note": "baseline after Daniel feedback"
+    },
+    {
+      "listing_id": "chris-white-atlantic-42-2003-watermark",
+      "recorded_at": "2026-10-04T16:46:00-07:00",
+      "price_usd": 430000,
+      "source": "YachtWorld",
+      "url": "https://www.yachtworld.com/yacht/2003-chris-white-atlantic-42-10047081/",
+      "note": "baseline after Daniel feedback"
+    },
+    {
+      "listing_id": "schionning-arrow-1280s-2023-cahuna",
+      "recorded_at": "2026-10-04T16:46:00-07:00",
+      "price_usd": 499900,
+      "source": "Denison",
+      "url": "https://www.denisonyachtsales.com/yachts-for-sale/42-schionning-III",
+      "note": "baseline after Daniel feedback"
+    },
+    {
+      "listing_id": "catana-44-1997",
+      "recorded_at": "2026-10-04T16:46:00-07:00",
+      "price_usd": 199999,
+      "source": "SailboatListings",
+      "url": "https://www.sailboatlistings.com/view/106062",
+      "note": "baseline after Daniel feedback"
+    },
+    {
+      "listing_id": "maine-cat-41-2006-deltaville",
+      "recorded_at": "2026-10-04T16:46:00-07:00",
+      "price_usd": 390000,
+      "source": "SailboatListings",
+      "url": "https://www.sailboatlistings.com/view/105868",
+      "note": "baseline after Daniel feedback"
+    },
+    {
+      "listing_id": "maine-cat-38-2018-watts-up-doc",
+      "recorded_at": "2026-10-04T16:46:00-07:00",
+      "price_usd": 295000,
+      "source": "Yazu Yachting",
+      "url": "https://yazuyachting.com/listings/2018-maine-cat-38-for-sale-deltaville/",
+      "note": "baseline after Daniel feedback"
+    },
+    {
+      "listing_id": "maine-cat-38-2018-surfer-girl",
+      "recorded_at": "2026-10-04T16:46:00-07:00",
+      "price_usd": 399000,
+      "source": "Denison",
+      "url": "https://www.denisonyachtsales.com/yachts-for-sale/surfer-girl-38-maine-cat",
+      "note": "baseline after Daniel feedback"
+    },
+    {
+      "listing_id": "catana-47-2010-trident-tides",
+      "recorded_at": "2026-10-04T16:46:00-07:00",
+      "price_usd": 549000,
+      "source": "YachtWorld",
+      "url": "https://www.yachtworld.com/yacht/2010-catana-47-10255191/",
+      "note": "baseline after Daniel feedback"
+    },
+    {
+      "listing_id": "max-cruise-44-sc-2022",
+      "recorded_at": "2026-10-04T16:46:00-07:00",
+      "price_usd": 625000,
+      "source": "SailboatListings",
+      "url": "https://www.sailboatlistings.com/view/103724",
+      "note": "baseline after Daniel feedback"
+    },
+    {
+      "listing_id": "outremer-45-2014-strategery-x",
+      "recorded_at": "2026-10-04T16:46:00-07:00",
+      "price_usd": 660000,
+      "source": "YachtWorld",
+      "url": "https://www.yachtworld.com/yacht/2014-outremer-45-10107668/",
+      "note": "baseline after Daniel feedback"
+    },
+    {
+      "listing_id": "outremer-45-2016-big-turtle",
+      "recorded_at": "2026-10-04T16:46:00-07:00",
+      "price_usd": 699000,
+      "source": "YachtWorld",
+      "url": "https://www.yachtworld.com/yacht/2016-outremer-45-10144524/",
+      "note": "baseline after Daniel feedback"
+    },
+    {
+      "listing_id": "alibi-54-2011-difference",
+      "recorded_at": "2026-10-04T16:46:00-07:00",
+      "price_usd": 699000,
+      "source": "Denison",
+      "url": "https://www.denisonyachtsales.com/yachts-for-sale/difference-54-alibi",
+      "note": "baseline after Daniel feedback"
+    },
+    {
+      "listing_id": "outremer-49-2012-san-diego",
+      "recorded_at": "2026-10-04T16:46:00-07:00",
+      "price_usd": 735000,
+      "source": "YachtWorld",
+      "url": "https://www.yachtworld.com/yacht/2012-outremer-49-10097610/",
+      "note": "baseline after Daniel feedback"
+    }
+  ]
+}

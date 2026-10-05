@@ -1,0 +1,42 @@
+[
+  {
+    "id": "outrider-55-natural-mystic-2004",
+    "brand": "Outrider",
+    "model": "55",
+    "name": "Natural Mystic",
+    "year": 2004,
+    "reason": "interior common area too small",
+    "urls": [
+      {
+        "source": "YachtWorld",
+        "url": "https://www.yachtworld.com/yacht/2004-outremer-standard-10212584/"
+      }
+    ],
+    "rejected_at": "2026-10-04"
+  },
+  {
+    "id": "grainger-37-masquerade-2007",
+    "brand": "Grainger",
+    "model": "37",
+    "name": "Masquerade",
+    "year": 2007,
+    "reason": "outside area too small",
+    "urls": [
+      {
+        "source": "YachtWorld",
+        "url": "https://www.yachtworld.com/yacht/2007-grainger-37-10288528/"
+      }
+    ],
+    "rejected_at": "2026-10-04"
+  },
+  {
+    "id": "catana-381-any",
+    "brand": "Catana",
+    "model": "381",
+    "name": null,
+    "year": null,
+    "reason": "too small",
+    "urls": [],
+    "rejected_at": "2026-10-04"
+  }
+]
