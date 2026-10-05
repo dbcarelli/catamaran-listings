@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "generated_at": "2026-10-04T16:46:00-07:00",
-  "updated_at": "2026-10-05T09:05:00-07:00",
+  "updated_at": "2026-10-05T09:11:00-07:00",
   "count": 17,
   "listings": [
     {
@@ -31,7 +31,7 @@
       "notes": "Owner's version; 2022 lithium/solar refit; never chartered; US duty paid",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-05T09:05:00-07:00"
+      "last_checked": "2026-10-05T09:11:00-07:00"
     },
     {
       "id": "catana-471-1998-la-vida-gypsea",
@@ -104,7 +104,7 @@
       "notes": "Owner version; circumnavigated; 2023-2026 refit; US duty paid",
       "price_notes": "Broker/YachtWorld $399000 vs SailboatListings $450000; prefer broker price",
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-05T09:05:00-07:00"
+      "last_checked": "2026-10-05T09:11:00-07:00"
     },
     {
       "id": "chris-white-atlantic-42-2003-watermark",
@@ -133,7 +133,7 @@
       "notes": "Lombardi-built; twin Yanmars Nov 2022; owner will entertain offers",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-05T09:05:00-07:00"
+      "last_checked": "2026-10-05T09:11:00-07:00"
     },
     {
       "id": "schionning-arrow-1280s-2023-cahuna",
@@ -157,12 +157,17 @@
           "source": "Denison",
           "url": "https://www.denisonyachtsales.com/yachts-for-sale/42-schionning-III",
           "price_usd": 499900
+        },
+        {
+          "source": "YachtWorld",
+          "url": "https://www.yachtworld.com/yacht/2023-schionning-aarow-1280s-10336443/",
+          "price_usd": 499900
         }
       ],
       "notes": "Listing describes interior as sparse and utilitarian \u2014 flagged for Daniel",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-05T09:05:00-07:00"
+      "last_checked": "2026-10-05T09:11:00-07:00"
     },
     {
       "id": "catana-44-1997",
@@ -191,7 +196,7 @@
       "notes": "Preferred broker pages 404; Yachtr shows Available Reduced and Sold \u2014 treated sold/off market. SBL may still show $199999",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-05T09:05:00-07:00"
+      "last_checked": "2026-10-05T09:11:00-07:00"
     },
     {
       "id": "maine-cat-41-2006-deltaville",
@@ -244,12 +249,17 @@
           "source": "Yazu Yachting",
           "url": "https://yazuyachting.com/listings/2018-maine-cat-38-for-sale-deltaville/",
           "price_usd": 295000
+        },
+        {
+          "source": "YachtWorld",
+          "url": "https://www.yachtworld.com/yacht/2018-maine-cat-38-electric-9581268/",
+          "price_usd": 295000
         }
       ],
       "notes": "OceanVolt electric conversion 2020; on the hard",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-05T09:05:00-07:00"
+      "last_checked": "2026-10-05T09:11:00-07:00"
     },
     {
       "id": "maine-cat-38-2018-surfer-girl",
@@ -341,7 +351,7 @@
       "notes": "Not for sale to U.S. residents in U.S. waters; new 2025 Yanmars",
       "price_notes": "Broker/YachtWorld $549000 vs SailboatListings $575000",
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-05T09:05:00-07:00"
+      "last_checked": "2026-10-05T09:11:00-07:00"
     },
     {
       "id": "max-cruise-44-sc-2022",
@@ -370,7 +380,7 @@
       "notes": "Sold; previous Ponce Inlet ask $625000 expired",
       "price_notes": "Sold at ~$399000",
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-05T09:05:00-07:00"
+      "last_checked": "2026-10-05T09:11:00-07:00"
     },
     {
       "id": "outremer-45-2014-strategery-x",
@@ -399,7 +409,7 @@
       "notes": "Hull #3; owner's version; mast cut for 64.5 ft ICW",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-05T09:05:00-07:00"
+      "last_checked": "2026-10-05T09:11:00-07:00"
     },
     {
       "id": "outremer-45-2016-big-turtle",
@@ -428,7 +438,7 @@
       "notes": "Owner's version; US duty paid",
       "price_notes": "Was $750000 on 2026-06-08",
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-05T09:05:00-07:00"
+      "last_checked": "2026-10-05T09:11:00-07:00"
     },
     {
       "id": "alibi-54-2011-difference",
@@ -491,7 +501,7 @@
       "notes": "Owner's version; never chartered",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-05T09:05:00-07:00"
+      "last_checked": "2026-10-05T09:11:00-07:00"
     },
     {
       "id": "maine-cat-41-2005-mcelbeau",
