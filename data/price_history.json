@@ -120,6 +120,38 @@
       "source": "YachtWorld",
       "url": "https://www.yachtworld.com/yacht/2012-outremer-49-10097610/",
       "note": "baseline after Daniel feedback"
+    },
+    {
+      "listing_id": "catana-471-1998-la-vida-gypsea",
+      "recorded_at": "2026-10-05T09:05:00-07:00",
+      "price_usd": 345000,
+      "source": "Catamaransite",
+      "url": "https://www.catamaransite.com/yachts-for-sale/catana-471-6/",
+      "note": "price drop from 395000 baseline"
+    },
+    {
+      "listing_id": "max-cruise-44-sc-2022",
+      "recorded_at": "2026-10-05T09:05:00-07:00",
+      "price_usd": 399000,
+      "source": "The Multihull Company",
+      "url": "https://www.multihullcompany.com/sold-boat/max-cruise-marine-44sc/",
+      "note": "sold"
+    },
+    {
+      "listing_id": "catana-44-1997",
+      "recorded_at": "2026-10-05T09:05:00-07:00",
+      "price_usd": 199999,
+      "source": "SailboatListings",
+      "url": "https://www.sailboatlistings.com/view/106062",
+      "note": "likely sold / off market"
+    },
+    {
+      "listing_id": "maine-cat-41-2005-mcelbeau",
+      "recorded_at": "2026-10-05T09:05:00-07:00",
+      "price_usd": 329000,
+      "source": "Denison",
+      "url": "https://www.denisonyachtsales.com/yachts-for-sale/mcelbeau-41-maine-cat",
+      "note": "first seen; Denison update Nov 2024"
     }
   ]
 }
