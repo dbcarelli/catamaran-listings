@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0.0",
   "generated_at": "2026-10-04T16:46:00-07:00",
-  "updated_at": "2026-10-07T09:02:00-07:00",
-  "count": 17,
+  "updated_at": "2026-10-08T10:07:00-07:00",
+  "count": 18,
   "listings": [
     {
       "id": "catana-471-2001-pippin",
@@ -31,7 +31,7 @@
       "notes": "Owner's version; 2022 lithium/solar refit; never chartered; US duty paid",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-07T09:02:00-07:00"
+      "last_checked": "2026-10-08T10:07:00-07:00"
     },
     {
       "id": "catana-471-1998-la-vida-gypsea",
@@ -65,7 +65,7 @@
       "notes": "Not for sale to US residents/citizens while in US waters",
       "price_notes": "Dropped from $395000 to $345000 as of 2026-09-27 on Catamaransite",
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-07T09:02:00-07:00"
+      "last_checked": "2026-10-08T10:07:00-07:00"
     },
     {
       "id": "dolphin-460-2007-anavah",
@@ -104,7 +104,7 @@
       "notes": "Owner version; circumnavigated; 2023-2026 refit; US duty paid",
       "price_notes": "Broker/YachtWorld $399000 vs SailboatListings $450000; prefer broker price",
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-07T09:02:00-07:00"
+      "last_checked": "2026-10-08T10:07:00-07:00"
     },
     {
       "id": "chris-white-atlantic-42-2003-watermark",
@@ -133,7 +133,7 @@
       "notes": "Lombardi-built; twin Yanmars Nov 2022; owner will entertain offers",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-07T09:02:00-07:00"
+      "last_checked": "2026-10-08T10:07:00-07:00"
     },
     {
       "id": "schionning-arrow-1280s-2023-cahuna",
@@ -167,7 +167,7 @@
       "notes": "Listing describes interior as sparse and utilitarian \u2014 flagged for Daniel",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-07T09:02:00-07:00"
+      "last_checked": "2026-10-08T10:07:00-07:00"
     },
     {
       "id": "catana-44-1997",
@@ -230,7 +230,7 @@
       "notes": "New Yanmar 3YM30AE 2022; Oct 5: no preferred live broker page found, SBL-only",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-07T09:02:00-07:00"
+      "last_checked": "2026-10-08T10:07:00-07:00"
     },
     {
       "id": "maine-cat-38-2018-watts-up-doc",
@@ -264,7 +264,7 @@
       "notes": "OceanVolt electric conversion 2020; on the hard",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-07T09:02:00-07:00"
+      "last_checked": "2026-10-08T10:07:00-07:00"
     },
     {
       "id": "maine-cat-38-2018-surfer-girl",
@@ -293,7 +293,7 @@
       "notes": "USCG COI charter boat; twin Yamaha 25 outboards",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-07T09:02:00-07:00"
+      "last_checked": "2026-10-08T10:07:00-07:00"
     },
     {
       "id": "seawind-1190-sport-2020",
@@ -322,7 +322,7 @@
       "notes": "Daggerboard variant of 1160; price not listed on page",
       "price_notes": "Price unknown",
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-07T09:02:00-07:00"
+      "last_checked": "2026-10-08T10:07:00-07:00"
     },
     {
       "id": "catana-47-2010-trident-tides",
@@ -356,7 +356,7 @@
       "notes": "Not for sale to U.S. residents in U.S. waters; new 2025 Yanmars",
       "price_notes": "Broker/YachtWorld $549000 vs SailboatListings $575000",
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-07T09:02:00-07:00"
+      "last_checked": "2026-10-08T10:07:00-07:00"
     },
     {
       "id": "max-cruise-44-sc-2022",
@@ -414,7 +414,7 @@
       "notes": "Hull #3; owner's version; mast cut for 64.5 ft ICW",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-07T09:02:00-07:00"
+      "last_checked": "2026-10-08T10:07:00-07:00"
     },
     {
       "id": "outremer-45-2016-big-turtle",
@@ -443,7 +443,7 @@
       "notes": "Owner's version; US duty paid",
       "price_notes": "Was $750000 on 2026-06-08",
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-07T09:02:00-07:00"
+      "last_checked": "2026-10-08T10:07:00-07:00"
     },
     {
       "id": "alibi-54-2011-difference",
@@ -472,7 +472,7 @@
       "notes": "Carbon lifting daggerboards reinstalled 2026; US duty paid",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-07T09:02:00-07:00"
+      "last_checked": "2026-10-08T10:07:00-07:00"
     },
     {
       "id": "outremer-49-2012-san-diego",
@@ -506,7 +506,7 @@
       "notes": "Owner's version; never chartered",
       "price_notes": null,
       "first_seen": "2026-10-04T16:46:00-07:00",
-      "last_checked": "2026-10-07T09:02:00-07:00"
+      "last_checked": "2026-10-08T10:07:00-07:00"
     },
     {
       "id": "maine-cat-41-2005-mcelbeau",
@@ -535,8 +535,37 @@
       "notes": "Denison last updated Nov 13 2024 \u2014 verify still available",
       "price_notes": "Unverified / possibly stale",
       "first_seen": "2026-10-05T09:05:00-07:00",
-      "last_checked": "2026-10-07T09:02:00-07:00"
+      "last_checked": "2026-10-08T10:07:00-07:00"
+    },
+    {
+      "id": "chris-white-atlantic-48-2005-zen",
+      "brand": "Chris White",
+      "model": "Atlantic 48",
+      "name": "Zen",
+      "year": 2005,
+      "length_ft": 48,
+      "asking_price_usd": 699000,
+      "currency": "USD",
+      "location": {
+        "city": "Newport",
+        "region": "RI",
+        "country": "US"
+      },
+      "coast": "east",
+      "daggerboards": "yes",
+      "status": "active",
+      "urls": [
+        {
+          "source": "YachtWorld",
+          "url": "https://www.yachtworld.com/yacht/2005-chris-white-atlantic-48-10351975/",
+          "price_usd": 699000
+        }
+      ],
+      "notes": "Privately offered. Skeg keels with daggerboards (draft 3'2\" up / 7'8\" down). Elevated wing-bridge salon with inside helm, forward + aft cockpits, 2 queen cabins + 2 forward singles, 2 heads, walk-in shower, workshop. 26 ft beam. Twin Yanmar 3JH5E 39hp, 540 hrs. Built by Bonger Marine, South Africa.",
+      "price_notes": "Listing gives conflicting construction specs (epoxy/Core-Cell vs fiberglass/PVC foam); ask seller.",
+      "first_seen": "2026-10-08T10:07:00-07:00",
+      "last_checked": "2026-10-08T10:07:00-07:00"
     }
   ],
-  "active_count": 15
+  "active_count": 16
 }

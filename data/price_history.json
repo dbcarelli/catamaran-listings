@@ -160,6 +160,14 @@
       "source": "Catamaransite",
       "url": "https://www.catamaransite.com/yachts-for-sale/catana-44-2/",
       "note": "confirmed sold"
+    },
+    {
+      "listing_id": "chris-white-atlantic-48-2005-zen",
+      "recorded_at": "2026-10-08T10:07:00-07:00",
+      "price_usd": 699000,
+      "source": "YachtWorld",
+      "url": "https://www.yachtworld.com/yacht/2005-chris-white-atlantic-48-10351975/",
+      "note": "new on YachtWorld Oct 8 2026"
     }
   ]
 }
